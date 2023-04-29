@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/http//:RafaelMiguel03.github.io/submeter-calculator-react_based/static/css/main.c64ec632.css",
+    "main.js": "/http//:RafaelMiguel03.github.io/submeter-calculator-react_based/static/js/main.460c7769.js",
+    "index.html": "/http//:RafaelMiguel03.github.io/submeter-calculator-react_based/index.html",
+    "main.c64ec632.css.map": "/http//:RafaelMiguel03.github.io/submeter-calculator-react_based/static/css/main.c64ec632.css.map",
+    "main.460c7769.js.map": "/http//:RafaelMiguel03.github.io/submeter-calculator-react_based/static/js/main.460c7769.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c64ec632.css",
+    "static/js/main.460c7769.js"
+  ]
+}
