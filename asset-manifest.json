@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/submeter-calculator-v2.0/static/css/main.c64ec632.css",
-    "main.js": "/submeter-calculator-v2.0/static/js/main.460c7769.js",
+    "main.css": "/submeter-calculator-v2.0/static/css/main.c74cfb7f.css",
+    "main.js": "/submeter-calculator-v2.0/static/js/main.bb337236.js",
     "index.html": "/submeter-calculator-v2.0/index.html",
-    "main.c64ec632.css.map": "/submeter-calculator-v2.0/static/css/main.c64ec632.css.map",
-    "main.460c7769.js.map": "/submeter-calculator-v2.0/static/js/main.460c7769.js.map"
+    "main.c74cfb7f.css.map": "/submeter-calculator-v2.0/static/css/main.c74cfb7f.css.map",
+    "main.bb337236.js.map": "/submeter-calculator-v2.0/static/js/main.bb337236.js.map"
   },
   "entrypoints": [
-    "static/css/main.c64ec632.css",
-    "static/js/main.460c7769.js"
+    "static/css/main.c74cfb7f.css",
+    "static/js/main.bb337236.js"
   ]
 }
