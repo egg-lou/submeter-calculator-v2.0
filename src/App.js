@@ -24,10 +24,10 @@ function App() {
   };
 
   return (
-    <div className="glass-card h-screen flex justify-center items-center">
-      <div className="card p-6 rounded-lg shadow-lg bg-opacity-50 backdrop-blur-md border border-white border-opacity-25">
+    <div className="glass-card h-screen w-auto flex justify-center items-center">
+      <div className="card p-7 rounded-3xl shadow-2xl shadow-inherit bg-opacity-100 backdrop-blur-xl border-4 border-s-cyan-300 border-e-white border-t-white border-b-cyan-300 border-opacity-100">
         <h2 className="text-4xl font-medium mb-2 text-center font-bold">Submeter Calculator</h2>
-        <div className="flex flex-col gap-4">
+        <div className="flex flex-col gap-2">
           <label htmlFor="currentAmount" className="text-center text-xl">Current Amount</label>
           <input
             type="text"
@@ -69,7 +69,7 @@ function App() {
 
           <button
             type="button"
-            className="bg-white text-black hover:text-white rounded-md px-3 py-2 hover:bg-black transition-colors transition-delay-100"
+            className="border-dashed bg-white text-black hover:text-white rounded-md px-3 py-2 hover:bg-black transition-colors transition-delay-100"
             onClick={handleClick}
           >
             Calculate
